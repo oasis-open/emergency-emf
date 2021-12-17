@@ -23,7 +23,7 @@ Initially, the associated TC members have designated Maintainer(s); subsequently
 Current Maintainers of this TC Open Repository are
 
 - Rex Brooks (rexb@starbourne.com, https://github.com/rexbroo), Individual Member
-- 
+
 – Elysa Jones (elysajones@yahoo.com, https://github.com/elysajones), Individual Member
 
 – Jeff Waters (jeffrywaters@gmail.com, https://github.com/jeffryhw), U.S. Department of Defense
